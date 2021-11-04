@@ -37,6 +37,7 @@ nav {
 	float: left;
 	width: 160px;
 }
+
 @media only screen and (max-width: 800px) {
 	body {
 		color: #000;
